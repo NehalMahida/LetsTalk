@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LetsTalk3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="user_name">
+        <item>Nehal Mahida</item>
+        <item>Jaydip Pansuriya</item>
+        <item>Dhruvil Parmar</item>
+        <item>Ghansyam Patel</item>
+        <item>Jay Desai</item>
+        <item>Bhism</item>
+        <item>Karan</item>
+        <item>Love Patel</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+    </string-array>
+</resources>
